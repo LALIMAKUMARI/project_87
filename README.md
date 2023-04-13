@@ -1,2 +1,2 @@
-# project_87
-this is my project
+# spectagram-stage-7
+project solution for c87
